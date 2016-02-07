@@ -170,3 +170,4 @@ j | j | voiced palatal approximant
 j̊/i̯̊|j_0|voiceless palatal approximant
 ʝ | j\ | voiced palatal fricative
 ʋ | P | labiodental approximant
+
