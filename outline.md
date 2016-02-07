@@ -170,4 +170,12 @@ j | j | voiced palatal approximant
 j̊/i̯̊|j_0|voiceless palatal approximant
 ʝ | j\ | voiced palatal fricative
 ʋ | P | labiodental approximant
-
+---|---|---
+ʘ | p! | Tenuis bilabial click
+ʘ̬/ᶢʘ|b!| Voiced bilabial click
+ʘ̃/ᵑʘ|m!|bilabial nasal click
+ǀ/ʇ|t!|Tenuis dental click
+ǀ̬/ᶢǀ/ʇ̬/ᶢʇ|d!|Voiced dental click
+ǀ̃/ᵑǀ/ʇ̃/ᵑʇ|n!|Dental nasal click
+ǃ/ʗ|c!|Tenuis alveolar click
+ǃ̬/ᶢǃ/ʗ̬/ᶢʗ|d.! or (J!) | voiced alveolar click
